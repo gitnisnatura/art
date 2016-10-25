@@ -11,4 +11,4 @@ Contact :
 @: ignisnatura@outlook.com
 
 "Alea iacta est"
-![Diente de Leon]({{site.baseurl}}//114x114red.png) 
+ 
